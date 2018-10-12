@@ -3,7 +3,8 @@
 #include<stdio.h>
 
 int main(){
-    printf("\nhello C !\n");
-    printf("\nhello git !\n");
+    printf("\nhello world!\n")
+    printf("hello C !\n");
+    printf("hello git !\n");
     return 0;
 }
