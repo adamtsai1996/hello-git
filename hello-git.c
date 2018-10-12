@@ -1,10 +1,10 @@
-// this is a new branch
+// this is a "dev" branch from master
 // this is a practice program for C & git
 
 #include<stdio.h>
 
 int main(){
-    printf("\nhello world!\n")
+    printf("\nhello world!\n");
     printf("hello C !\n");
     printf("hello git !\n");
     return 0;
